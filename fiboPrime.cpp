@@ -1,13 +1,16 @@
-#include <iostream.h>
-using namespace std;
 
-class FibonacciPrime {
+#include <iostream>
+using namespace std;
+class FibonacciPrime
+{
 private:
     int terms;
 
     // Check if a number is prime
-    bool isPrime(int num) {
-        if (num <= 1) return false;
+    bool isPrime(int num)
+    {
+        if (num <= 1)
+            return false;
         for (int i = 2; i * i <= num; ++i)
             if (num % i == 0)
                 return false;
@@ -16,17 +19,17 @@ private:
 
 public:
     // Constructor
-    FibonacciPrime(int n) {
-        terms = n;
-    }
+    FibonacciPrime(int n) { terms = n; }
 
     // Function to display Fibonacci series and indicate primes
-    void displaySeries() {
+    void displaySeries()
+    {
         int a = 0, b = 1, next;
 
         cout << "Fibonacci series with prime numbers marked:\n";
 
-        for (int i = 1; i <= terms; ++i) {
+        for (int i = 1; i <= terms; ++i)
+        {
             cout << a;
             if (isPrime(a))
                 cout << " (prime)";
@@ -39,7 +42,8 @@ public:
     }
 };
 
-int main() {
+int main()
+{
     int n;
     cout << "Enter the number of terms: ";
     cin >> n;
