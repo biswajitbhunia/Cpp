@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\biswajit\\Documents\\GitHub\\Cpp\\myCpp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{35581EF5-49B8-4205-A6FF-2061FBFB169F}|myCpp.vcxproj|C:\\Users\\biswajit\\Documents\\GitHub\\Cpp\\myCpp\\fiboPrime.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{35581EF5-49B8-4205-A6FF-2061FBFB169F}|myCpp.vcxproj|solutionrelative:fiboPrime.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "fiboPrime.cpp",
+              "DocumentMoniker": "C:\\Users\\biswajit\\Documents\\GitHub\\Cpp\\myCpp\\fiboPrime.cpp",
+              "RelativeDocumentMoniker": "fiboPrime.cpp",
+              "ToolTip": "C:\\Users\\biswajit\\Documents\\GitHub\\Cpp\\myCpp\\fiboPrime.cpp",
+              "RelativeToolTip": "fiboPrime.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-06T11:42:23.796Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
